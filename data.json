@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "name": "book",
+      "price": "3000"
+    },
+    {
+      "id": "3",
+      "name": "Watch",
+      "price": 700
+    },
+    {
+      "id": "4",
+      "name": "Watch",
+      "price": 700
+    }
+  ]
+}
